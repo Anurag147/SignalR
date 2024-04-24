@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "KCR8e15+j+pRuNPytTZGP9VPYDn/UPBjGBRLCP4Zi28=",
+  "Source": "Scaffold.Web",
+  "BasePath": "_content/Scaffold.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Scaffold.Web\\wwwroot",
+      "Source": "Scaffold.Web",
+      "ContentRoot": "D:\\SignalR\\SignalR.Scaffold\\src\\Scaffold.Web\\wwwroot\\",
+      "BasePath": "_content/Scaffold.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\SignalR\\SignalR.Scaffold\\src\\Scaffold.Web\\wwwroot\\index.html",
+      "SourceId": "Scaffold.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\SignalR\\SignalR.Scaffold\\src\\Scaffold.Web\\wwwroot\\",
+      "BasePath": "_content/Scaffold.Web",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\SignalR\\SignalR.Scaffold\\src\\Scaffold.Web\\wwwroot\\main.e7dc199cf903e63c961e.js",
+      "SourceId": "Scaffold.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\SignalR\\SignalR.Scaffold\\src\\Scaffold.Web\\wwwroot\\",
+      "BasePath": "_content/Scaffold.Web",
+      "RelativePath": "main.e7dc199cf903e63c961e.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.e7dc199cf903e63c961e.js"
+    }
+  ]
+}
